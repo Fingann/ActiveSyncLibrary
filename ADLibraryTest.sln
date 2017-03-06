@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADLibraryTest", "ADLibraryTest\ADLibraryTest.csproj", "{36C842B4-562C-4F94-9ACC-B1DE9CC59595}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADManagement", "ADManagement\ADManagement.csproj", "{F5AE1A67-B369-49B5-91FD-70238EE86346}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtentionUtil", "ExtentionUtil\ExtentionUtil.csproj", "{0D639CE7-990B-4735-8804-C02E1C6F1517}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36C842B4-562C-4F94-9ACC-B1DE9CC59595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36C842B4-562C-4F94-9ACC-B1DE9CC59595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36C842B4-562C-4F94-9ACC-B1DE9CC59595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36C842B4-562C-4F94-9ACC-B1DE9CC59595}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5AE1A67-B369-49B5-91FD-70238EE86346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5AE1A67-B369-49B5-91FD-70238EE86346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5AE1A67-B369-49B5-91FD-70238EE86346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5AE1A67-B369-49B5-91FD-70238EE86346}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D639CE7-990B-4735-8804-C02E1C6F1517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D639CE7-990B-4735-8804-C02E1C6F1517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D639CE7-990B-4735-8804-C02E1C6F1517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D639CE7-990B-4735-8804-C02E1C6F1517}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
